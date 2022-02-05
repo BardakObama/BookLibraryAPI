@@ -5,7 +5,7 @@
 - Data files are stored in the storage.
 - OOP principles applied.
 - Unit tests.
-#### Endpoints:
+#### Rest API endpoints:
 - Add new book /addbook
 - Take book from the library /takebook
 - Get book by GUID code /getbook

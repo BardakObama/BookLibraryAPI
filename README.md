@@ -1,4 +1,4 @@
-# 📖 Book Library
+# 📖 Book Library (Database)
 #### Web application to manage book library.<br/>
 - Made with Spring Boot and JAVA.
 - Data is read from and written to the .json file.
